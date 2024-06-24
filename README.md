@@ -12,8 +12,8 @@ This repository contains a Node.js application that automates transactions on th
 1. **Clone the repository:**
 
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/0xOneiros/units-network-bot.git
+   cd units-network-bot
    ```
 
 2. **Install dependencies:**
